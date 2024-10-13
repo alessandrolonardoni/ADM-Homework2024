@@ -4,4 +4,6 @@ This repository contains the solution to Homework 1, which includes "Problem 1" 
 
 ## Repository Content
 
-- `scripts.py`: This file contains the complete solution to the two problems assigned in Homework 1.
+- `scripts.py`: This file contains the complete solution to the two problems assigned.
+
+- `submissions_hackerrank`: This file contains the PDF printout of the submissions made on HackerRank.
